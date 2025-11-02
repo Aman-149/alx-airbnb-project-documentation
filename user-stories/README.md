@@ -1,4 +1,3 @@
-
 # 🧑‍💻 User Stories
 
 ## 🎯 Objective
